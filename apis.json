@@ -1,0 +1,91 @@
+{
+    "name": "BBVA Compass",
+    "description": "BBVA Compass bank offers checking and savings accounts, credit cards, wealth management, and other financial services for individuals and businesses.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/bbva-logo.jpg",
+    "tags": [
+        "api lifeycle",
+        "api provider",
+        "api service provider",
+        "banking",
+        "financial services",
+        "have api",
+        "spanish bank",
+        "uk banks",
+        "us bank"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bbva-compass\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BBVA Compass",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/bbva-logo.jpg",
+            "humanURL": "https:\/\/www.bbvaapimarket.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bbva-compass-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/bbvaopen4u.com\/en\/apimarketblog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bbva-compass"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.bbvaapimarket.com"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.bbvaapimarket.com\/products"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/www.bbvaapimarket.com\/how-it-works\/faqs"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/www.bbvaapimarket.com\/how-it-works\/get-started"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/BBVAEngineering"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/BBVA"
+        },
+        {
+            "type": "Privacy Policy",
+            "url": "https:\/\/www.bbvaapimarket.com\/personal-data-policy"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/www.bbvaapimarket.com\/terms-conditions"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/BBVACompass"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.bbvaapimarket.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.bbvacompass.com\/"
+        }
+    ]
+}
